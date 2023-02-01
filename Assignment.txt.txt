@@ -1,0 +1,1 @@
+The goal of this assignment is to demonstrate your understanding of the useRef hook in React. You have been provided with a boilerplate code which includes a simple React component WrodsCounter and a set of failing test cases. Your task is to implement the missing functionality. Once you have completed the implementation, make sure to verify that the test cases pass.
